@@ -1,6 +1,9 @@
 ﻿# massen Mailer
 
 
+##Achtung
+Sie müssen den Soruce Code anpassen, um das Programm nutzen zu können. Die Stellen, an denen das nötig ist, wurden kommentiert.
+
 ##Inhalt
 Hier finden Sie den Sourcecode für das Programm.
 
