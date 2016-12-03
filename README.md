@@ -1,5 +1,7 @@
 ﻿# Massen Mailer
-
+<p align="center">
+  <img src="Screenshot.png">
+</p>
 
 ##Achtung
 Sie müssen den Source Code anpassen, um das Programm nutzen zu können. Die Stellen, an denen das nötig ist, wurden kommentiert.
