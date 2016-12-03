@@ -8,7 +8,7 @@ Sie müssen den Soruce Code anpassen, um das Programm nutzen zu können. Die Ste
 Hier finden Sie den Sourcecode für das Programm.
 
 ##Automatische Udaptes
-Dieses Programm aktualisiert sich selbst bei jedem Start, ohne dass es der User dafür eingreifen muss.
+Dieses Programm aktualisiert sich selbst bei jedem Start, ohne dass der User dafür eingreifen muss.
 
 ##Zweck
 Die meisten Massen Mailer Tools sind komplett überladen, sodass die meisten Funktionen, die geboten werden, meistens nur dazu dienen, dass das Programm schwerer zu bedienen ist.
